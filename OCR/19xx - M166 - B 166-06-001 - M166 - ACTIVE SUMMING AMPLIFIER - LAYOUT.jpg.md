@@ -19,7 +19,7 @@ Wiki page: [M166](../../../../PAGES/M166.md)
 - **Circles and arcs:** 2 circles, 0 arcs; largest r 1.7 @ (193.3, 31.9), r 1.5 @ (5.7, 261.2)
 - **Closed boxes:** 27
 
-Every curve, box, word and wire group: [19xx - M166 - B 166-06-001 - M166 - ACTIVE SUMMING AMPLIFIER - LAYOUT (traced).json](../SCHEMATICS/19xx%20-%20M166%20-%20B%20166-06-001%20-%20M166%20-%20ACTIVE%20SUMMING%20AMPLIFIER%20-%20LAYOUT%20(traced).json) (the CAD file: `19xx - M166 - B 166-06-001 - M166 - ACTIVE SUMMING AMPLIFIER - LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M166 - B 166-06-001 - M166 - ACTIVE SUMMING AMPLIFIER - LAYOUT (traced).json](../SCHEMATICS/19xx%20-%20M166%20-%20B%20166-06-001%20-%20M166%20-%20ACTIVE%20SUMMING%20AMPLIFIER%20-%20LAYOUT%20%28traced%29.json) (the CAD file: `19xx - M166 - B 166-06-001 - M166 - ACTIVE SUMMING AMPLIFIER - LAYOUT (traced).dxf`).
 
 ## Full text
 

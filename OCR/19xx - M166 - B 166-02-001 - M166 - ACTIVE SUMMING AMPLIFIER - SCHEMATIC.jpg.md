@@ -23,7 +23,7 @@ Wiki page: [M166](../../../../PAGES/M166.md)
 - **Words (OCR):** 4 in 4 lines: JH · 04 · Mli · 65
 - **Wiring (first pass):** 89 connected wire groups from 653 runs; labelled ends: 310 mm → 04; 43 mm → 65; 22 mm → 65; 10 mm → 04; 7 mm → Mli, 65
 
-Every curve, box, word and wire group: [19xx - M166 - B 166-02-001 - M166 - ACTIVE SUMMING AMPLIFIER - SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M166%20-%20B%20166-02-001%20-%20M166%20-%20ACTIVE%20SUMMING%20AMPLIFIER%20-%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - M166 - B 166-02-001 - M166 - ACTIVE SUMMING AMPLIFIER - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M166 - B 166-02-001 - M166 - ACTIVE SUMMING AMPLIFIER - SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M166%20-%20B%20166-02-001%20-%20M166%20-%20ACTIVE%20SUMMING%20AMPLIFIER%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M166 - B 166-02-001 - M166 - ACTIVE SUMMING AMPLIFIER - SCHEMATIC (traced).dxf`).
 
 ## Full text
 

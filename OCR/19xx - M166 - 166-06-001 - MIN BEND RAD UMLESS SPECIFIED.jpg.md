@@ -20,7 +20,7 @@ Wiki page: [M166](../../../../PAGES/M166.md)
 - **Closed boxes:** 25
 - **Dots (junctions):** 2
 
-Every curve, box, word and wire group: [19xx - M166 - 166-06-001 - MIN BEND RAD UMLESS SPECIFIED (traced).json](../SCHEMATICS/19xx%20-%20M166%20-%20166-06-001%20-%20MIN%20BEND%20RAD%20UMLESS%20SPECIFIED%20(traced).json) (the CAD file: `19xx - M166 - 166-06-001 - MIN BEND RAD UMLESS SPECIFIED (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M166 - 166-06-001 - MIN BEND RAD UMLESS SPECIFIED (traced).json](../SCHEMATICS/19xx%20-%20M166%20-%20166-06-001%20-%20MIN%20BEND%20RAD%20UMLESS%20SPECIFIED%20%28traced%29.json) (the CAD file: `19xx - M166 - 166-06-001 - MIN BEND RAD UMLESS SPECIFIED (traced).dxf`).
 
 ## Full text
 

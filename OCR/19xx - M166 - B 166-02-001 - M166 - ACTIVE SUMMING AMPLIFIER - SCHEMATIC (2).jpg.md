@@ -23,7 +23,7 @@ Wiki page: [M166](../../../../PAGES/M166.md)
 - **Words (OCR):** 31 in 29 lines: h4€4 · Tio?5 · Notl" · Tio · stitad · Vicro FARADE · Trat · 29 @mitted) ; · Cef @T · Nota · CuiPu · ouiput
 - **Wiring (first pass):** 86 connected wire groups from 557 runs, 4 dotted junctions; labelled ends: 275 mm → Lid:, DRS, cinISH, AMPLIFIER; 34 mm → Tio?5; 26 mm → Nota; 14 mm → DRS, CHKD|; 10 mm → Trat
 
-Every curve, box, word and wire group: [19xx - M166 - B 166-02-001 - M166 - ACTIVE SUMMING AMPLIFIER - SCHEMATIC (2) (traced).json](../SCHEMATICS/19xx%20-%20M166%20-%20B%20166-02-001%20-%20M166%20-%20ACTIVE%20SUMMING%20AMPLIFIER%20-%20SCHEMATIC%20(2)%20(traced).json) (the CAD file: `19xx - M166 - B 166-02-001 - M166 - ACTIVE SUMMING AMPLIFIER - SCHEMATIC (2) (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M166 - B 166-02-001 - M166 - ACTIVE SUMMING AMPLIFIER - SCHEMATIC (2) (traced).json](../SCHEMATICS/19xx%20-%20M166%20-%20B%20166-02-001%20-%20M166%20-%20ACTIVE%20SUMMING%20AMPLIFIER%20-%20SCHEMATIC%20%282%29%20%28traced%29.json) (the CAD file: `19xx - M166 - B 166-02-001 - M166 - ACTIVE SUMMING AMPLIFIER - SCHEMATIC (2) (traced).dxf`).
 
 ## Full text
 

@@ -30,7 +30,7 @@ Wiki page: [M166](../../../../PAGES/M166.md)
 - **Closed boxes:** 28
 - **Dots (junctions):** 1
 
-Every curve, box, word and wire group: [1970 - 166-06-001 - ACTIVE SUMMING AMPLIFIER LAYOUT - DRN DPS (traced).json](../SCHEMATICS/1970%20-%20166-06-001%20-%20ACTIVE%20SUMMING%20AMPLIFIER%20LAYOUT%20-%20DRN%20DPS%20(traced).json) (the CAD file: `1970 - 166-06-001 - ACTIVE SUMMING AMPLIFIER LAYOUT - DRN DPS (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 166-06-001 - ACTIVE SUMMING AMPLIFIER LAYOUT - DRN DPS (traced).json](../SCHEMATICS/1970%20-%20166-06-001%20-%20ACTIVE%20SUMMING%20AMPLIFIER%20LAYOUT%20-%20DRN%20DPS%20%28traced%29.json) (the CAD file: `1970 - 166-06-001 - ACTIVE SUMMING AMPLIFIER LAYOUT - DRN DPS (traced).dxf`).
 
 ## Full text
 

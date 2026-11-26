@@ -34,7 +34,7 @@ Wiki page: [M166](../../../../PAGES/M166.md)
 - **Dots (junctions):** 6
 - **Wiring (first pass):** 99 connected wire groups from 644 runs, 6 dotted junctions
 
-Every curve, box, word and wire group: [1970 - 166-02-001 - ACTIVE SUMMING AMPLIFIER SCHEMATIC - DRN DPS - ISS 7 (2) (traced).json](../SCHEMATICS/1970%20-%20166-02-001%20-%20ACTIVE%20SUMMING%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20DPS%20-%20ISS%207%20(2)%20(traced).json) (the CAD file: `1970 - 166-02-001 - ACTIVE SUMMING AMPLIFIER SCHEMATIC - DRN DPS - ISS 7 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 166-02-001 - ACTIVE SUMMING AMPLIFIER SCHEMATIC - DRN DPS - ISS 7 (2) (traced).json](../SCHEMATICS/1970%20-%20166-02-001%20-%20ACTIVE%20SUMMING%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20DPS%20-%20ISS%207%20%282%29%20%28traced%29.json) (the CAD file: `1970 - 166-02-001 - ACTIVE SUMMING AMPLIFIER SCHEMATIC - DRN DPS - ISS 7 (2) (traced).dxf`).
 
 ## Full text
 

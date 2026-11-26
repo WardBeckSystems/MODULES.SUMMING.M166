@@ -21,7 +21,7 @@ Wiki page: [M166](../../../../PAGES/M166.md)
 - **Closed boxes:** 17
 - **Wiring (first pass):** 39 connected wire groups from 319 runs
 
-Every curve, box, word and wire group: [19xx - M166 - B 166-02-002 - M166 - ACTIVE SUMMING AMPLIFIER - PLUG CONNECTIONS (traced).json](../PINOUTS/19xx%20-%20M166%20-%20B%20166-02-002%20-%20M166%20-%20ACTIVE%20SUMMING%20AMPLIFIER%20-%20PLUG%20CONNECTIONS%20(traced).json) (the CAD file: `19xx - M166 - B 166-02-002 - M166 - ACTIVE SUMMING AMPLIFIER - PLUG CONNECTIONS (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M166 - B 166-02-002 - M166 - ACTIVE SUMMING AMPLIFIER - PLUG CONNECTIONS (traced).json](../PINOUTS/19xx%20-%20M166%20-%20B%20166-02-002%20-%20M166%20-%20ACTIVE%20SUMMING%20AMPLIFIER%20-%20PLUG%20CONNECTIONS%20%28traced%29.json) (the CAD file: `19xx - M166 - B 166-02-002 - M166 - ACTIVE SUMMING AMPLIFIER - PLUG CONNECTIONS (traced).dxf`).
 
 ## Full text
 

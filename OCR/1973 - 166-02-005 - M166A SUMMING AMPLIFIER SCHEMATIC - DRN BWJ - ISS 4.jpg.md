@@ -37,7 +37,7 @@ Wiki page: [M166](../../../../PAGES/M166.md)
 - **Title block:** (288, 9)–(386, 33) mm: MAT L · ISS4MOD CKD · WBS WAADS · Wbs · 2-02 · DATL · ISCALE
 - **Wiring (first pass):** 70 connected wire groups from 489 runs, 7 dotted junctions; labelled ends: 198 mm → {00/26; 188 mm → 7 2 /25; 134 mm → 477, 2n3645, R/6 <, 7 2 /25; 134 mm → 4/25, CDMMOM; 80 mm → R2e, 477
 
-Every curve, box, word and wire group: [1973 - 166-02-005 - M166A SUMMING AMPLIFIER SCHEMATIC - DRN BWJ - ISS 4 (traced).json](../SCHEMATICS/1973%20-%20166-02-005%20-%20M166A%20SUMMING%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20BWJ%20-%20ISS%204%20(traced).json) (the CAD file: `1973 - 166-02-005 - M166A SUMMING AMPLIFIER SCHEMATIC - DRN BWJ - ISS 4 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 166-02-005 - M166A SUMMING AMPLIFIER SCHEMATIC - DRN BWJ - ISS 4 (traced).json](../SCHEMATICS/1973%20-%20166-02-005%20-%20M166A%20SUMMING%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20BWJ%20-%20ISS%204%20%28traced%29.json) (the CAD file: `1973 - 166-02-005 - M166A SUMMING AMPLIFIER SCHEMATIC - DRN BWJ - ISS 4 (traced).dxf`).
 
 ## Full text
 
