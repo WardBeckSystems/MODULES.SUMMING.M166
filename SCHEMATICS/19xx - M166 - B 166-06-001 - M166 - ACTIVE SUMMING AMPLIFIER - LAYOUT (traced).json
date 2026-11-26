@@ -1,0 +1,65 @@
+{
+ "drawing": "Modules/SUMMING/M166/SCHEMATICS/19xx - M166 - B 166-06-001 - M166 - ACTIVE SUMMING AMPLIFIER - LAYOUT.jpg",
+ "version": 1,
+ "trace": "_traces/1e789a6b08c166ae.svg",
+ "sheet": {
+  "number": "166-06-001",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 270,
+  "px": [2000, 1424],
+  "mm": [431.8, 307.4],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 18.8, 431.4, 307.4],
+ "outlines": {
+  "line": {"rings": 1054, "straight": {"n": 8980, "mm": 12475.5}, "curved": {"n": 2334, "mm": 2358.2}},
+  "text": {"rings": 220, "straight": {"n": 1597, "mm": 1528.0}, "curved": {"n": 485, "mm": 534.1}}
+ },
+ "circles": [
+  {"c": [193.3, 31.9], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [5.7, 261.2], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [74.7, 245.7, 110.2, 259.5], "w": 35.5, "h": 13.8, "from": "ring"},
+  {"mm": [128.0, 242.9, 141.2, 246.8], "w": 13.2, "h": 3.9, "from": "ring"},
+  {"mm": [128.0, 226.5, 141.4, 230.4], "w": 13.4, "h": 3.9, "from": "ring"},
+  {"mm": [97.8, 200.1, 110.3, 204.0], "w": 12.5, "h": 3.9, "from": "ring"},
+  {"mm": [71.5, 185.0, 84.2, 188.5], "w": 12.7, "h": 3.5, "from": "ring"},
+  {"mm": [44.7, 183.2, 57.4, 187.0], "w": 12.7, "h": 3.7, "from": "ring"},
+  {"mm": [128.4, 179.4, 142.1, 183.5], "w": 13.7, "h": 4.1, "from": "ring"},
+  {"mm": [44.9, 175.3, 57.4, 179.0], "w": 12.5, "h": 3.7, "from": "ring"},
+  {"mm": [102.6, 167.8, 107.4, 169.9], "w": 4.8, "h": 2.2, "from": "ring"},
+  {"mm": [128.7, 155.0, 142.3, 158.7], "w": 13.6, "h": 3.7, "from": "ring"},
+  {"mm": [17.0, 115.9, 30.0, 152.0], "w": 13.0, "h": 36.1, "from": "ring"},
+  {"mm": [44.2, 114.6, 48.4, 127.8], "w": 4.2, "h": 13.2, "from": "ring"},
+  {"mm": [320.2, 65.6, 425.3, 74.5], "w": 105.1, "h": 8.9, "from": "ring"},
+  {"mm": [240.5, 36.7, 319.4, 74.3], "w": 78.9, "h": 37.6, "from": "ring"},
+  {"mm": [202.1, 55.6, 240.1, 74.1], "w": 38.0, "h": 18.4, "from": "ring"},
+  {"mm": [187.8, 64.7, 201.0, 73.9], "w": 13.2, "h": 9.2, "from": "ring"},
+  {"mm": [320.4, 37.1, 425.6, 64.8], "w": 105.2, "h": 27.7, "from": "ring"},
+  {"mm": [187.8, 46.0, 201.0, 64.6], "w": 13.2, "h": 18.6, "from": "ring"},
+  {"mm": [202.1, 46.0, 240.1, 55.5], "w": 38.0, "h": 9.6, "from": "ring"},
+  {"mm": [187.8, 36.7, 201.2, 45.6], "w": 13.4, "h": 8.9, "from": "ring"},
+  {"mm": [202.1, 36.7, 240.3, 45.6], "w": 38.2, "h": 8.9, "from": "ring"},
+  {"mm": [414.3, 28.3, 425.4, 37.0], "w": 11.1, "h": 8.7, "from": "ring"},
+  {"mm": [333.5, 27.9, 402.1, 36.9], "w": 68.5, "h": 9.1, "from": "ring"},
+  {"mm": [402.4, 28.0, 413.9, 36.9], "w": 11.4, "h": 8.9, "from": "ring"},
+  {"mm": [202.1, 27.4, 319.3, 36.8], "w": 117.2, "h": 9.3, "from": "ring"},
+  {"mm": [320.4, 27.9, 333.3, 36.7], "w": 13.0, "h": 8.9, "from": "ring"},
+  {"mm": [187.8, 27.4, 201.2, 36.3], "w": 13.4, "h": 8.9, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 166-06-001, size B (assumed) 432 × 307 mm, 2000 × 1424 px traced (0.216 mm/px), turned 270°",
+  "- **Ink extent:** 0–431 mm across, 19–307 mm up",
+  "- **Outlines:** line 1,054 rings, 8,980 straight (12,476 mm) / 2,334 curved (2,358 mm); text 220 rings, 1,597 straight (1,528 mm) / 485 curved (534 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 1.7 @ (193.3, 31.9), r 1.5 @ (5.7, 261.2)",
+  "- **Closed boxes:** 27"
+ ]
+}
