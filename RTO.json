@@ -3,91 +3,258 @@
  "connector": "RTO-144",
  "type": "M166 - Active Summing Amplifier",
  "series": "S400-LINE",
- "contacts": "15 contacts, single row",
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "connector",
+   "contacts": 15,
+   "rows": "1-15 single row",
+   "view": null,
+   "part": null
+  }
+ ],
  "verified": "166-02-002 iss. 2 (Feb 1970), M166 active summing amplifier plug connections",
- "derived": false,
- "variant_of": null,
+ "built_from": {
+  "pictures": [
+   "M166/PINOUTS/19xx - M166 - 166-02-002 - ACTIVE SUMMING AMPLIFIER PLUG CONNECTIONS.pinout.json",
+   "M166/PINOUTS/19xx - M166 - B 166-02-002 - M166 - ACTIVE SUMMING AMPLIFIER - PLUG CONNECTIONS.pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M166/M166.rto144.json",
+  "sheet_agrees": "8 of 9"
+ },
  "pins": [
   {
+   "connector": "P1",
    "pin": "1",
-   "signal": "SUMMING IN 10KΩ",
+   "ref": "1",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT A",
    "kind": "in",
-   "pair": "A1",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M166/M166.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "2",
-   "signal": "SUMMING IN 10KΩ",
-   "kind": "in",
-   "pair": "A1",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M166/M166.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "10",
-   "signal": "PREAMP OUT 1",
-   "kind": "out",
-   "pair": "A2",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M166/M166.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "11",
-   "signal": "PREAMP OUT 1",
-   "kind": "out",
-   "pair": "A2",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M166/M166.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "12",
-   "signal": "COMMON",
-   "kind": "ground",
-   "pair": null,
+   "port": "INPUT",
    "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M166/M166.rto144.json",
-   "page": 1
+   "confidence": "medium",
+   "read_from": [
+    "M166/PINOUTS/19xx - M166 - 166-02-002 - ACTIVE SUMMING AMPLIFIER PLUG CONNECTIONS.pinout.json",
+    "M166/PINOUTS/19xx - M166 - B 166-02-002 - M166 - ACTIVE SUMMING AMPLIFIER - PLUG CONNECTIONS.pinout.json"
+   ],
+   "sheet": {
+    "signal": "INPUT +",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
+   "pin": "2",
+   "ref": "2",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT B",
+   "kind": "in",
+   "port": "INPUT",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M166/PINOUTS/19xx - M166 - 166-02-002 - ACTIVE SUMMING AMPLIFIER PLUG CONNECTIONS.pinout.json",
+    "M166/PINOUTS/19xx - M166 - B 166-02-002 - M166 - ACTIVE SUMMING AMPLIFIER - PLUG CONNECTIONS.pinout.json"
+   ],
+   "sheet": {
+    "signal": "INPUT -",
+    "kind": "in",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "ref": "7",
+   "also": null,
+   "same_row": null,
+   "signal": "SHIELD GROUND",
+   "kind": "shield",
+   "port": "INPUT",
+   "polarity": "shield",
+   "confidence": "medium",
+   "read_from": [
+    "M166/PINOUTS/19xx - M166 - 166-02-002 - ACTIVE SUMMING AMPLIFIER PLUG CONNECTIONS.pinout.json",
+    "M166/PINOUTS/19xx - M166 - B 166-02-002 - M166 - ACTIVE SUMMING AMPLIFIER - PLUG CONNECTIONS.pinout.json"
+   ],
+   "sheet": {
+    "signal": "SHIELD GND",
+    "kind": "ground",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "ref": "10",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 1 A",
+   "kind": "out",
+   "port": "OUTPUT 1",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M166/PINOUTS/19xx - M166 - 166-02-002 - ACTIVE SUMMING AMPLIFIER PLUG CONNECTIONS.pinout.json",
+    "M166/PINOUTS/19xx - M166 - B 166-02-002 - M166 - ACTIVE SUMMING AMPLIFIER - PLUG CONNECTIONS.pinout.json"
+   ],
+   "sheet": {
+    "signal": "OUTPUT #1 +",
+    "kind": "out",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "ref": "11",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 1 B",
+   "kind": "out",
+   "port": "OUTPUT 1",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M166/PINOUTS/19xx - M166 - 166-02-002 - ACTIVE SUMMING AMPLIFIER PLUG CONNECTIONS.pinout.json",
+    "M166/PINOUTS/19xx - M166 - B 166-02-002 - M166 - ACTIVE SUMMING AMPLIFIER - PLUG CONNECTIONS.pinout.json"
+   ],
+   "sheet": {
+    "signal": "OUTPUT #1 -",
+    "kind": "out",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "ref": "12",
+   "also": null,
+   "same_row": null,
+   "signal": "- (SUPPLY RETURN)",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M166/PINOUTS/19xx - M166 - 166-02-002 - ACTIVE SUMMING AMPLIFIER PLUG CONNECTIONS.pinout.json",
+    "M166/PINOUTS/19xx - M166 - B 166-02-002 - M166 - ACTIVE SUMMING AMPLIFIER - PLUG CONNECTIONS.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GND",
+    "kind": "ground",
+    "agrees": false
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "13",
+   "ref": "13",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 2 A",
+   "kind": "out",
+   "port": "OUTPUT 2",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M166/PINOUTS/19xx - M166 - 166-02-002 - ACTIVE SUMMING AMPLIFIER PLUG CONNECTIONS.pinout.json",
+    "M166/PINOUTS/19xx - M166 - B 166-02-002 - M166 - ACTIVE SUMMING AMPLIFIER - PLUG CONNECTIONS.pinout.json"
+   ],
+   "sheet": {
+    "signal": "OUTPUT #2 +",
+    "kind": "out",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "14",
+   "ref": "14",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT 2 B",
+   "kind": "out",
+   "port": "OUTPUT 2",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M166/PINOUTS/19xx - M166 - 166-02-002 - ACTIVE SUMMING AMPLIFIER PLUG CONNECTIONS.pinout.json",
+    "M166/PINOUTS/19xx - M166 - B 166-02-002 - M166 - ACTIVE SUMMING AMPLIFIER - PLUG CONNECTIONS.pinout.json"
+   ],
+   "sheet": {
+    "signal": "OUTPUT #2 -",
+    "kind": "out",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
    "pin": "15",
+   "ref": "15",
+   "also": null,
+   "same_row": null,
    "signal": "+48 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M166/M166.rto144.json",
-   "page": 1
+   "confidence": "medium",
+   "read_from": [
+    "M166/PINOUTS/19xx - M166 - 166-02-002 - ACTIVE SUMMING AMPLIFIER PLUG CONNECTIONS.pinout.json",
+    "M166/PINOUTS/19xx - M166 - B 166-02-002 - M166 - ACTIVE SUMMING AMPLIFIER - PLUG CONNECTIONS.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VCC-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   }
  ],
- "straps": [],
- "power": [
+ "ports": [
   {
-   "rail": "VCC-AUDIO",
-   "style": null,
-   "volts": 48,
-   "max_a": null,
-   "supply": "15",
-   "ground": "12",
-   "link": null
+   "name": "INPUT",
+   "dir": "in",
+   "pins": {
+    "+": "P1-1",
+    "-": "P1-2",
+    "shield": "P1-7"
+   }
+  },
+  {
+   "name": "OUTPUT 1",
+   "dir": "out",
+   "pins": {
+    "+": "P1-10",
+    "-": "P1-11"
+   }
+  },
+  {
+   "name": "OUTPUT 2",
+   "dir": "out",
+   "pins": {
+    "+": "P1-13",
+    "-": "P1-14"
+   }
   }
  ],
- "sources": [
-  "Engineering/RTO-144/M166/M166.rto144.json"
+ "inserts": [],
+ "straps": [],
+ "conflicts": [
+  {
+   "pin": "P1-12",
+   "kept": "- (SUPPLY RETURN) (power)",
+   "other": "GND (ground)",
+   "from": "RTO-144 sheet"
+  }
+ ],
+ "to_check": [
+  {
+   "what": "disagree",
+   "pin": "P1-12",
+   "detail": "kept - (SUPPLY RETURN) (power); RTO-144 sheet says GND (ground)"
+  }
  ]
 }

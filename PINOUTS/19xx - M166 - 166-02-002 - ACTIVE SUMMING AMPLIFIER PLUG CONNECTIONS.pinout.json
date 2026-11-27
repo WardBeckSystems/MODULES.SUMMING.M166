@@ -1,0 +1,153 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "19xx - M166 - 166-02-002 - ACTIVE SUMMING AMPLIFIER PLUG CONNECTIONS.jpg",
+  "module": "M166",
+  "applies_to": [
+    "M166"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "B 166-02-002",
+    "title": "M166 ACTIVE SUMMING AMPLIFIER PLUG CONNECTIONS",
+    "date": "1970-02-09",
+    "issue": "2",
+    "drawn": "D.P.S"
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "connector",
+      "contacts": 15,
+      "rows": "1-15 single row",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "INPUT",
+      "signal": "INPUT A",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "INPUT",
+      "signal": "INPUT B",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "SH. GND.",
+      "signal": "SHIELD GROUND",
+      "kind": "shield",
+      "port": "INPUT",
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "OUTPUT #1",
+      "signal": "OUTPUT 1 A",
+      "kind": "out",
+      "port": "OUTPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "OUTPUT #1",
+      "signal": "OUTPUT 1 B",
+      "kind": "out",
+      "port": "OUTPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "—",
+      "signal": "- (SUPPLY RETURN)",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "OUTPUT #2",
+      "signal": "OUTPUT 2 A",
+      "kind": "out",
+      "port": "OUTPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "OUTPUT #2",
+      "signal": "OUTPUT 2 B",
+      "kind": "out",
+      "port": "OUTPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "+48V D.C.",
+      "signal": "+48 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "INPUT",
+      "dir": "in",
+      "pins": {
+        "+": "P1-1",
+        "-": "P1-2",
+        "shield": "P1-7"
+      }
+    },
+    {
+      "name": "OUTPUT 1",
+      "dir": "out",
+      "pins": {
+        "+": "P1-10",
+        "-": "P1-11"
+      }
+    },
+    {
+      "name": "OUTPUT 2",
+      "dir": "out",
+      "pins": {
+        "+": "P1-13",
+        "-": "P1-14"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "Pin 12 is labelled only with a dash ('—'); read as the negative / return of the 48 V supply",
+    "Polarity of input and output pairs not marked"
+  ],
+  "confidence": "medium",
+  "notes": "15-pin single-row connector; pins 3-6, 8, 9 drawn blank. Date reads 9.FEB.1970 though the file name says 19xx. Page scanned rotated 180°."
+}

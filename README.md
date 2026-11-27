@@ -59,16 +59,23 @@ Not on Google Drive yet: `M166 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-15 contacts, single row; checked against 166-02-002 iss. 2 (Feb 1970), M166 active summing amplifier plug connections. Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 2 pinout pictures (each its own `.pinout.json` beside it); the RTO-144 sheet agrees on 8 of 9 contacts; 1 to check (`conflicts`). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+**To check:**
+
+- disagree P1-12: kept - (SUPPLY RETURN) (power); RTO-144 sheet says GND (ground)
+
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 | SUMMING IN 10KΩ | in | A1 + | high |
-| 2 | SUMMING IN 10KΩ | in | A1 - | high |
-| 10 | PREAMP OUT 1 | out | A2 + | high |
-| 11 | PREAMP OUT 1 | out | A2 - | high |
-| 12 | COMMON | ground |  | high |
-| 15 | +48 V | power |  | high |
+| 1 | INPUT A | in | INPUT | medium |
+| 2 | INPUT B | in | INPUT | medium |
+| 7 | SHIELD GROUND | shield | INPUT shield | medium |
+| 10 | OUTPUT 1 A | out | OUTPUT 1 | medium |
+| 11 | OUTPUT 1 B | out | OUTPUT 1 | medium |
+| 12 | - (SUPPLY RETURN) | power |  | medium |
+| 13 | OUTPUT 2 A | out | OUTPUT 2 | medium |
+| 14 | OUTPUT 2 B | out | OUTPUT 2 | medium |
+| 15 | +48 V | power |  | medium |
 
 ## Manuals and documents
 
