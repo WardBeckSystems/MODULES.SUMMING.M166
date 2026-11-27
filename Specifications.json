@@ -1,0 +1,124 @@
+{
+ "module": "M166",
+ "title": "",
+ "source": {
+  "file": "MANUALS/19xx - M166 - 2.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.95,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Configuration",
+   "key": "configuration",
+   "text": "30 inputs to output, totally balanced"
+  },
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "Unity +0. SaB Frequency Response +0.25dB 20Hz to 20kHz",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "-85dBm absolute output noise",
+   "quantities": [
+    {
+     "value": -85,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Total harmonic distortion",
+   "key": "total_harmonic_distortion",
+   "text": "Less than 0.1% from 20Hz to 20kHz (Measured at +l8dBm) output level)",
+   "quantities": [
+    {
+     "value": 0.1,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "600 ohms or less balanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "20K ohm (with external summing resistors)"
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "+18 dBm maximum",
+   "quantities": [
+    {
+     "value": 18,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "600 ohms balanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "600 ohms resistive, balanced.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "+20dEm maximum"
+  }
+ ]
+}

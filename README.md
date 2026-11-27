@@ -13,6 +13,29 @@ Ward-Beck Systems M166, 1970|3. Wiki page: [M166 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 22 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [5 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [19xx - M166 - 2.jpg](MANUALS/19xx%20-%20M166%20-%202.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Configuration** | 30 inputs to output, totally balanced |
+| **Gain** | Unity +0. SaB Frequency Response +0.25dB 20Hz to 20kHz |
+| **Noise** | -85dBm absolute output noise |
+| **Total harmonic distortion** | Less than 0.1% from 20Hz to 20kHz (Measured at +l8dBm) output level) |
+| **Source impedance** | 600 ohms or less balanced |
+| **Input impedance** | 20K ohm (with external summing resistors) |
+| **Input level** | +18 dBm maximum |
+| **Load impedance** | 600 ohms balanced |
+| **Output impedance** | 600 ohms resistive, balanced. |
+| **Output level** | +20dEm maximum |
+
+<!-- /module data -->
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
