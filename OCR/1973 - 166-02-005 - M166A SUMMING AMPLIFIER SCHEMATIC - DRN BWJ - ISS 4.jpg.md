@@ -1,5 +1,5 @@
 # 1973 - 166-02-005 - M166A SUMMING AMPLIFIER SCHEMATIC - DRN BWJ - ISS 4.jpg
-Wiki page: [M166](../../../../PAGES/M166.md)
+Wiki page: [M166](../)
 
 
 - **Year:** 1973 (title block date)

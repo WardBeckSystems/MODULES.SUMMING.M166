@@ -1,6 +1,6 @@
 # M166 Active Summing Module · Summing
 
-Ward-Beck Systems M166, 1970|3. Wiki page: [M166 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M166.html)
+Ward-Beck Systems M166, 1970|3. Wiki page: [M166 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M166/)
 
 | Folder | What is in it | Files |
 |---|---|---|

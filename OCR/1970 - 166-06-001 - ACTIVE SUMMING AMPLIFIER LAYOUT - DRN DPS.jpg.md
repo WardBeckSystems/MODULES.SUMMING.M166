@@ -1,5 +1,5 @@
 # 1970 - 166-06-001 - ACTIVE SUMMING AMPLIFIER LAYOUT - DRN DPS.jpg
-Wiki page: [M166](../../../../PAGES/M166.md)
+Wiki page: [M166](../)
 
 
 - **Year:** 1970 (title block date)

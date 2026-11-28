@@ -1,5 +1,5 @@
 # 19xx - M166 - B 166-06-001 - M166 - ACTIVE SUMMING AMPLIFIER - LAYOUT.jpg
-Wiki page: [M166](../../../../PAGES/M166.md)
+Wiki page: [M166](../)
 
 
 - **Year:** unknown (unknown)

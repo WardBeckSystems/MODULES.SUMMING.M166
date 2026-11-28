@@ -1,5 +1,5 @@
 # 1970 - 166-02-001 - ACTIVE SUMMING AMPLIFIER SCHEMATIC - DRN DPS - ISS 7 (2).jpg
-Wiki page: [M166](../../../../PAGES/M166.md)
+Wiki page: [M166](../)
 
 
 - **Year:** 1970 (title block date)

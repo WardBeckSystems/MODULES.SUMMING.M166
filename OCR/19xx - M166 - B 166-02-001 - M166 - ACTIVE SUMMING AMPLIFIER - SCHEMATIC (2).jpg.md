@@ -1,5 +1,5 @@
 # 19xx - M166 - B 166-02-001 - M166 - ACTIVE SUMMING AMPLIFIER - SCHEMATIC (2).jpg
-Wiki page: [M166](../../../../PAGES/M166.md)
+Wiki page: [M166](../)
 
 
 - **Year:** unknown (unknown)
