@@ -4,13 +4,12 @@ Ward-Beck Systems M166, 1970|3. Wiki page: [M166 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 31 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 16 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 13 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 30 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 15 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 12 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 20 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -45,8 +44,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKd1MwZmdwMUFxVUk/view?resourcekey=0-VKEzEB7ZBOUToqVlSsPD7Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKd1MwZmdwMUFxVUk&resourcekey=0-VKEzEB7ZBOUToqVlSsPD7Q" width="240" alt="19xx - M166 - B 166-06-001 - M166 - ACTIVE SUMMING AMPLIFIER - LAYOUT.jpg"></a><br><sub>19xx - M166 - B 166-06-001 - M166 - ACTIVE SUMMING AMPLIFIER - LAYOUT · <a href="SCHEMATICS/19xx%20-%20M166%20-%20B%20166-06-001%20-%20M166%20-%20ACTIVE%20SUMMING%20AMPLIFIER%20-%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1970 - 166-02-001 - ACTIVE SUMMING AMPLIFIER SCHEMATIC - DRN DPS - ISS 7 (2).jpg`, `1970 - 166-06-001 - ACTIVE SUMMING AMPLIFIER LAYOUT - DRN DPS.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -54,8 +51,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKdl9lLUNSV1hhOVk/view?resourcekey=0-BVShYkTVwqo6Fh5nt7n2Bw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKdl9lLUNSV1hhOVk&resourcekey=0-BVShYkTVwqo6Fh5nt7n2Bw" width="240" alt="19xx - M166 - 166-02-002 - ACTIVE SUMMING AMPLIFIER PLUG CONNECTIONS.jpg"></a><br><sub>19xx - M166 - 166-02-002 - ACTIVE SUMMING AMPLIFIER PLUG CONNECTIONS · <a href="PINOUTS/19xx%20-%20M166%20-%20166-02-002%20-%20ACTIVE%20SUMMING%20AMPLIFIER%20PLUG%20CONNECTIONS%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTWptTHh3RTFFb0k/view?resourcekey=0-t60AGlAu96WSBzLA8h8BqA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTWptTHh3RTFFb0k&resourcekey=0-t60AGlAu96WSBzLA8h8BqA" width="240" alt="19xx - M166 - B 166-02-002 - M166 - ACTIVE SUMMING AMPLIFIER - PLUG CONNECTIONS.jpg"></a><br><sub>19xx - M166 - B 166-02-002 - M166 - ACTIVE SUMMING AMPLIFIER - PLUG CONNECTIONS · <a href="PINOUTS/19xx%20-%20M166%20-%20B%20166-02-002%20-%20M166%20-%20ACTIVE%20SUMMING%20AMPLIFIER%20-%20PLUG%20CONNECTIONS%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M166 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -100,7 +95,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - M166 - B 166-02-001 - M166 - ACTIVE SUMMING AMPLIFIER - SCHEMATIC.kicad_sch](KICAD/19xx%20-%20M166%20-%20B%20166-02-001%20-%20M166%20-%20ACTIVE%20SUMMING%20AMPLIFIER%20-%20SCHEMATIC.kicad_sch)
 - [19xx - M166 - B 166-02-002 - M166 - ACTIVE SUMMING AMPLIFIER - PLUG CONNECTIONS.kicad_sch](KICAD/19xx%20-%20M166%20-%20B%20166-02-002%20-%20M166%20-%20ACTIVE%20SUMMING%20AMPLIFIER%20-%20PLUG%20CONNECTIONS.kicad_sch)
 - [M166.kicad_sym](KICAD/M166.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
